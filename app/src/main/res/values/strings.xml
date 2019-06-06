@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Random PES</string>
+    <string name="spin">Quay</string>
+    <string name="clear">Xóa</string>
+    <string name="home">Home</string>
+    <string name="away">Away</string>
+</resources>

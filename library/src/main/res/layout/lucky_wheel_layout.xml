@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <rubikstudio.library.PielView
+            android:id="@+id/pieView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <View
+            android:id="@+id/vCenter"
+            android:layout_width="1dp"
+            android:layout_height="1dp"
+            app:layout_constraintBottom_toBottomOf="@id/pieView"
+            app:layout_constraintEnd_toEndOf="@id/pieView"
+            app:layout_constraintStart_toStartOf="@id/pieView"
+            app:layout_constraintTop_toTopOf="@id/pieView" />
+
+        <ImageView
+            android:id="@+id/cursorView"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_above="@id/vCenter"
+            android:layout_marginBottom="16dp"
+            android:rotation="180"
+            app:layout_constraintBottom_toTopOf="@id/vCenter"
+            app:layout_constraintEnd_toEndOf="@id/pieView"
+            app:layout_constraintStart_toStartOf="@id/pieView" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

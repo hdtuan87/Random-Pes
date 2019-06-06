@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Barcelona",
+    "icon": "barca",
+    "color": "#dcdcdc"
+  },
+  {
+    "name": "Real Marid",
+    "icon": "real",
+    "color": "#e6f7ff"
+  },
+  {
+    "name": "Liverpool",
+    "icon": "liver",
+    "color": "#dcdcdc"
+  },
+  {
+    "name": "Juve",
+    "icon": "juve",
+    "color": "#e6f7ff"
+  },
+  {
+    "name": "Leicester",
+    "icon": "leicester",
+    "color": "#dcdcdc"
+  },
+  {
+    "name": "Roma",
+    "icon": "roma",
+    "color": "#e6f7ff"
+  },
+  {
+    "name": "Chelsea",
+    "icon": "chelsea",
+    "color": "#dcdcdc"
+  },
+  {
+    "name": "Arsenal",
+    "icon": "arsenal",
+    "color": "#e6f7ff"
+  },
+  {
+    "name": "PSG",
+    "icon": "psg",
+    "color": "#dcdcdc"
+  },
+  {
+    "name": "Man City",
+    "icon": "manc",
+    "color": "#e6f7ff"
+  },
+  {
+    "name": "Man U",
+    "icon": "mu",
+    "color": "#dcdcdc"
+  },
+  {
+    "name": "Tottenham",
+    "icon": "tot",
+    "color": "#e6f7ff"
+  },
+  {
+    "name": "Inter Milan",
+    "icon": "inter",
+    "color": "#dcdcdc"
+  },
+  {
+    "name": "Atletico",
+    "icon": "atletico",
+    "color": "#e6f7ff"
+  },
+  {
+    "name": "Napoli",
+    "icon": "napoli",
+    "color": "#dcdcdc"
+  },
+  {
+    "name": "AC Milan",
+    "icon": "ac",
+    "color": "#e6f7ff"
+  },
+  {
+    "name": "Ajax",
+    "icon": "ajax",
+    "color": "#dcdcdc"
+  },
+  {
+    "name": "Dortmund",
+    "icon": "dortmund",
+    "color": "#e6f7ff"
+  }
+]
